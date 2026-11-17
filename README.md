@@ -5,7 +5,7 @@
 
 가장 최신은 Latest, Latest 릴리즈 내에서는 가장 큰 번호가 가장 최신입니다.
 
-다운로드는 zip 파일 한 개만 다운로드 받아서 진행하면 됩니다.
+다운로드는 소스코드(Source Code)가 아닌 게임명으로 시작하는 zip 파일 한 개만 다운로드 받아서 진행하면 됩니다.
 <img width="1237" height="652" alt="image" src="https://github.com/user-attachments/assets/8da39325-25b5-464a-a8f0-d267122abb78" />
 
 
